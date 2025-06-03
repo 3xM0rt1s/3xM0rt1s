@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ex-Mørtis, you can just call me Mortis or Emily :3 
+- 👋 Hi, I’m Ex-Mørtis, you can just call me Mortis or Addi :3 
 - 👀 I’m interested in progamming, especially video games
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on nothing atm but maybe in the future
